@@ -36,6 +36,9 @@ public class Esprimo {
 			return false;}
 	}
 	
+	//este método muestra en pantalla el error especificado en la entrada
+	
+	
 	public static void error(String s){
 		System.out.print(s);
 	}
